@@ -49,7 +49,7 @@ usuario.addEventListener("keyup", () => {
 });
 
 senha.addEventListener("keyup", () => {
-  if (senha.value.length <= 6) {
+  if (senha.value.length <= 5) {
     labelSenha.setAttribute("style", "color: red");
     labelSenha.innerHTML = "*Insira no mínimo 6 caracteres";
     senha.setAttribute("style", "border-color:red");
