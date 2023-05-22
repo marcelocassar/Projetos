@@ -43,6 +43,7 @@ function entrar(){
     let token = Math.random().toString(16).substring(2);
     localStorage.setItem('token', token);
     window.location.href = 'TelaDeInicio.html';
+    localStorage.setItem('userLogado', JSON.stringify(userValid));
 
     
     

@@ -1,0 +1,226 @@
+{
+    "id": 15,
+    "tid": 2,
+    "fn": "Robert",
+    "ln": "Williams III",
+    "coll": "",
+    "ctry": "US",
+    "age": 24,
+    "ht": 85,
+    "wt": 257,
+    "yrs": 3,
+    "num": 44,
+    "pos": 8,
+    "linePos": 4,
+    "pri": 11,
+    "sec": 0,
+    "arc": "Custom",
+    "pot": 8,
+    "appearance": {
+        "skinC": "7A444A",
+        "eyeC": "262539",
+        "unibrow": false,
+        "browC": "262539",
+        "hair": "0054",
+        "hairC": "302C2E",
+        "fHair": "0000",
+        "fHairC": "302C2E"
+    },
+    "accessories": [
+        {
+            "headAcc": "0000",
+            "headAccC": "FFFFFF",
+            "L_Shoulder": "FFFFFF",
+            "R_Shoulder": "7A444A",
+            "L_Elbow": "FFFFFF",
+            "R_Elbow": "FFFFFF",
+            "L_Wrist": "FFFFFF",
+            "R_Wrist": "7A444A",
+            "L_Knee": "7A444A",
+            "R_Knee": "7A444A",
+            "L_Shin": "7A444A",
+            "R_Shin": "7A444A",
+            "sockC": "FFFFFF",
+            "shoeC": "000000",
+            "laceC": "FFFFFF",
+            "soleC": "FFFFFF"
+        },
+        {
+            "headAcc": "0000",
+            "headAccC": "FFFFFF",
+            "L_Shoulder": "PRI",
+            "R_Shoulder": "7A444A",
+            "L_Elbow": "PRI",
+            "R_Elbow": "PRI",
+            "L_Wrist": "PRI",
+            "R_Wrist": "7A444A",
+            "L_Knee": "7A444A",
+            "R_Knee": "7A444A",
+            "L_Shin": "7A444A",
+            "R_Shin": "7A444A",
+            "sockC": "PRI",
+            "shoeC": "PRI",
+            "laceC": "FFFFFF",
+            "soleC": "FFFFFF"
+        },
+        {
+            "headAcc": "0000",
+            "headAccC": "FFFFFF",
+            "L_Shoulder": "SEC",
+            "R_Shoulder": "7A444A",
+            "L_Elbow": "SEC",
+            "R_Elbow": "SEC",
+            "L_Wrist": "SEC",
+            "R_Wrist": "7A444A",
+            "L_Knee": "7A444A",
+            "R_Knee": "7A444A",
+            "L_Shin": "7A444A",
+            "R_Shin": "7A444A",
+            "sockC": "SEC",
+            "shoeC": "SEC",
+            "laceC": "FFFFFF",
+            "soleC": "FFFFFF"
+        },
+        {
+            "headAcc": "0000",
+            "headAccC": "FFFFFF",
+            "L_Shoulder": "TER",
+            "R_Shoulder": "7A444A",
+            "L_Elbow": "TER",
+            "R_Elbow": "TER",
+            "L_Wrist": "TER",
+            "R_Wrist": "7A444A",
+            "L_Knee": "7A444A",
+            "R_Knee": "7A444A",
+            "L_Shin": "7A444A",
+            "R_Shin": "7A444A",
+            "sockC": "TER",
+            "shoeC": "000000",
+            "laceC": "FFFFFF",
+            "soleC": "FFFFFF"
+        }
+    ],
+    "attributes": {
+        "LAY": [
+            17,
+            17
+        ],
+        "DNK": [
+            15,
+            15
+        ],
+        "INS": [
+            12,
+            12
+        ],
+        "MID": [
+            12,
+            12
+        ],
+        "TPT": [
+            3,
+            3
+        ],
+        "FTS": [
+            10,
+            10
+        ],
+        "DRB": [
+            7,
+            7
+        ],
+        "PAS": [
+            9,
+            9
+        ],
+        "ORE": [
+            19,
+            19
+        ],
+        "DRE": [
+            18,
+            18
+        ],
+        "STL": [
+            5,
+            5
+        ],
+        "BLK": [
+            19,
+            19
+        ],
+        "SPD": [
+            13,
+            13
+        ],
+        "STR": [
+            17,
+            17
+        ],
+        "STM": [
+            20,
+            20
+        ]
+    },
+    "seasonStats": {
+        "yr": 0,
+        "team": "",
+        "stats": []
+    },
+    "playoffStats": {
+        "yr": 0,
+        "team": "",
+        "stats": []
+    },
+    "gameStatus": {
+        "startPos": 0,
+        "stamina": 0,
+        "streak": 0
+    },
+    "gameStats": {
+        "GP": 0,
+        "GS": 0,
+        "MIN": 0,
+        "PM": 0,
+        "POS": 0,
+        "PTS": 0,
+        "FGM": 0,
+        "FGA": 0,
+        "TPM": 0,
+        "TPA": 0,
+        "FTM": 0,
+        "FTA": 0,
+        "REB": 0,
+        "ORB": 0,
+        "AST": 0,
+        "STL": 0,
+        "BLK": 0,
+        "TO": 0,
+        "PF": 0
+    },
+    "careerHighs": {
+        "GP": 0,
+        "GS": 0,
+        "MIN": 0,
+        "PM": 0,
+        "POS": 0,
+        "PTS": 0,
+        "FGM": 0,
+        "FGA": 0,
+        "TPM": 0,
+        "TPA": 0,
+        "FTM": 0,
+        "FTA": 0,
+        "REB": 0,
+        "ORB": 0,
+        "AST": 0,
+        "STL": 0,
+        "BLK": 0,
+        "TO": 0,
+        "PF": 0
+    },
+    "contract": {
+        "yrs": 0,
+        "sal": 0
+    }
+}
